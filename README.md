@@ -1,6 +1,7 @@
 # Piaggio WebScraper
 
 This was a semi-small self assigned project with the goal being to avoid stressing my hands and eyes by automating the entry clerk process.
+
 The scope ended up being a lot bigger after my 7 months of work (gov program) as I ended up cooperating with the site admin for more features but within 2 weeks the basic functionalaty was up and working.
 
 **Quick comparison and showcase of the scripts / macro working can be found on Comparison Piaggio.mp4.**
