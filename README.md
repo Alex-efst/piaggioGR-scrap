@@ -1,4 +1,4 @@
-# Piaggio WebScraper
+# Piaggio WebScraper & Script/Macro data entry
 
 This was a semi-small self assigned project with the goal being to avoid stressing my hands and eyes by automating the entry clerk process.
 
