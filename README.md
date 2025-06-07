@@ -1,6 +1,6 @@
 # Piaggio WebScraper & Script/Macro data entry
 
-This was a semi-small self assigned project with the goal being to avoid stressing my hands and eyes by automating the entry clerk process.
+This was my first project on a job, which was a self assigned project with the goal being to avoid stressing my hands and eyes by automating the entry clerk process.
 
 The scope ended up being a lot bigger after my 7 months of work (gov program) as I ended up cooperating with the site admin for more features but within 2 weeks the basic functionalaty was up and working.
 
@@ -18,3 +18,13 @@ The scope ended up being a lot bigger after my 7 months of work (gov program) as
 ## Documentation
 
 There's a full pdf documentantion in Greek but due to the nature of the task, I would like to avoid more exposure of the tools / scripts for the security of the business.
+The documentation icludes:
+
+* Introduction
+* Terminology
+* FAQ
+* Instruction steps (including code changes for different behaviours)
+* Troubleshooting (if it shows this behaviour or this error, solution is ...)
+* Improvements
+
+The aim of the documentation was to make it potentially possible for the business owners themseleves to work with it if they could learn a thing or two more about computers with my minimal goal being readable to any programmer or me.
