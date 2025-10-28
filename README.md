@@ -1,10 +1,12 @@
 # Piaggio WebScraper & Script/Macro data entry
 
-This was my first project on a job, which was a self assigned project with the goal being to avoid stressing my hands and eyes by automating the entry clerk process.
+The purpose of this project was to automate the entry clerk process of entering piaggio motorcycle parts. 
 
-The scope ended up being a lot bigger after my 7 months of work (gov program) as I ended up cooperating with the site admin for more features but within 2 weeks the basic functionalaty was up and working.
+This was my first project on a job which was self assigned to ease the workload of the position. The duration for the making of it was 2 weeks for basic functionality but with the cooperation of site admin, we ended up adding a lot more features in the 7 months.
 
-**Quick comparison and showcase of the scripts / macro working can be found on Comparison Piaggio.mp4.**
+![vlc_OhEJKtxp8i](https://github.com/user-attachments/assets/44b5dd0c-97c9-4012-a3e9-8612918c9034)
+
+**Full example side by side on Comparison Piaggio.mp4 file.**
 
 ## Features and functionalities
 
@@ -13,18 +15,18 @@ The scope ended up being a lot bigger after my 7 months of work (gov program) as
 * Download and sorting of all images for specified Moto
 * Macro for sorting & entry of extra codes
 * Convertion of data to Excel sheet
-* Automated data entry for business site with Excel sheet
+* Automated data entry onto the site with Excel sheet
 
 ## Documentation
 
-There's a full pdf documentantion in Greek but due to the nature of the task, I would like to avoid more exposure of the tools / scripts for the security of the business.
-The documentation icludes:
+There's a full pdf documentantion in Greek but due to the nature of the task, I would like to avoid more exposure of the tools / scripts.
+</br>The documentation icludes:
 
 * Introduction
 * Terminology
 * FAQ
 * Instruction steps (including code changes for different behaviours)
-* Troubleshooting (if it shows this behaviour or this error, solution is ...)
+* Troubleshooting
 * Improvements
 
-The aim of the documentation was to make it potentially possible for the business owners themseleves to work with it if they could learn a thing or two more about computers with my minimal goal being readable to any programmer or me.
+The aim of the documentation was to make it potentially possible for the business owners themseleves to work with it if they could learn a thing or two more about computers with my minimal goal being readable to any programmer or myself.
